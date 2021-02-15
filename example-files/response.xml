@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:GetCourseDetailsResponse xmlns:tns="http://in28minutes.com/courses" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://in28minutes.com/courses course-details.xsd ">
+  <tns:CourseDetails>
+    <tns:id>123</tns:id>
+    <tns:name>java</tns:name>
+    <tns:description>good</tns:description>
+  </tns:CourseDetails>
+</tns:GetCourseDetailsResponse>
